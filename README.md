@@ -88,7 +88,7 @@ Choose an option (1-6): 2
  Your Todo List:
 1. Buy groceries [not done]
 ```
-###for instance: screenshots
+### for instance: screenshots
 ![Home Page](images/image1.png)
 ![Home Page](images/image2.png)
 ![Home Page](images/image3.png)
@@ -144,7 +144,3 @@ Ensure all dependencies are installed:
 ```bash
 npm install
 ```
-
-## License
-
-This project is for educational purposes.

@@ -88,6 +88,15 @@ Choose an option (1-6): 2
  Your Todo List:
 1. Buy groceries [not done]
 ```
+###for instance: screenshots
+![Home Page](images/image1.png)
+![Home Page](images/image2.png)
+![Home Page](images/image3.png)
+![Home Page](images/image4.png)
+![Home Page](images/image5.png)
+![Home Page](images/image6.png)
+![Home Page](images/image7.png)
+![Home Page](images/image8.png)
 
 ## Project Structure
 
